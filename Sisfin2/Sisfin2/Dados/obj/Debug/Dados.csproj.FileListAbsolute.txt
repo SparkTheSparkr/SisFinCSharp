@@ -1,0 +1,12 @@
+C:\Users\aluno\source\repos\Sisfin2\Dados\bin\Debug\Dados.dll
+C:\Users\aluno\source\repos\Sisfin2\Dados\bin\Debug\Dados.pdb
+C:\Users\aluno\source\repos\Sisfin2\Dados\obj\Debug\Dados.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Sisfin2\Dados\obj\Debug\Dados.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Sisfin2\Dados\obj\Debug\Dados.dll
+C:\Users\aluno\source\repos\Sisfin2\Dados\obj\Debug\Dados.pdb
+C:\Users\aluno\Downloads\Sisfin2\Sisfin2\Dados\bin\Debug\Dados.dll
+C:\Users\aluno\Downloads\Sisfin2\Sisfin2\Dados\bin\Debug\Dados.pdb
+C:\Users\aluno\Downloads\Sisfin2\Sisfin2\Dados\obj\Debug\Dados.csproj.AssemblyReference.cache
+C:\Users\aluno\Downloads\Sisfin2\Sisfin2\Dados\obj\Debug\Dados.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\Sisfin2\Sisfin2\Dados\obj\Debug\Dados.dll
+C:\Users\aluno\Downloads\Sisfin2\Sisfin2\Dados\obj\Debug\Dados.pdb
